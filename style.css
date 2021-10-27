@@ -4,3 +4,22 @@
 body{
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
 }
+
+.maine-heading{
+    color: red;
+}
+.sec-heading{
+    font-style: italic;
+}
+
+.container{
+padding: 1rem 2rem;
+}
+
+/*.container-fluid{
+
+}*/
+
+.container-centered{
+color: blue;
+}
